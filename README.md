@@ -12,7 +12,12 @@
   
   <tr>
     <td>docker ps</td>
-    <td>Lista os processos.</td>
+    <td>Lista os processos em execução.</td>
+  </tr>
+  
+  <tr>
+    <td>docker ps -a</td>
+    <td>Lista todos os processos.</td>
   </tr>
   
   <tr>
