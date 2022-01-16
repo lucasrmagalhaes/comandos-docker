@@ -34,4 +34,9 @@
     <td>docker run -it --name nome-container nome-imagem</td>
     <td>Cria o container.</td>
   </tr>
+  
+  <tr>
+    <td>docker inspect numero-id</td>
+    <td>Mostra informações do container.</td>
+  </tr>
 </table>
