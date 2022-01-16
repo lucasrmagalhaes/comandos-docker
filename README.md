@@ -59,4 +59,9 @@
     <td>docker attach numero-id</td>
     <td>Entra no container.</td>
   </tr>
+  
+  <tr>
+    <td>docker diff numero-id</td>
+    <td>Mostra todas as alterações dentro do container.</td>
+  </tr>
 </table>
