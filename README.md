@@ -19,4 +19,9 @@
     <td>docker images</td>
     <td>Lista as imagens.</td>
   </tr>
+  
+  <tr>
+    <td>docker pull nome-imagem</td>
+    <td>Faz o download da imagem.</td>
+  </tr>
 </table>
