@@ -39,4 +39,9 @@
     <td>docker inspect numero-id</td>
     <td>Mostra informações do container.</td>
   </tr>
+  
+  <tr>
+    <td>docker stop numero-id</td>
+    <td>Para a execução do container.</td>
+  </tr>
 </table>
