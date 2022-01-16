@@ -73,4 +73,9 @@
     <td>docker rm numero-id</td>
     <td>Remove um container que não está em execução.</td>
   </tr>
+  
+  <tr>
+    <td>docker rm -f numero-id</td>
+    <td>Remove um container que está ou não em execução.</td>
+  </tr>
 </table>
