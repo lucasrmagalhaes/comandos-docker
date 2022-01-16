@@ -24,4 +24,9 @@
     <td>docker pull nome-imagem</td>
     <td>Faz o download da imagem.</td>
   </tr>
+  
+  <tr>
+    <td>docker pull nome-imagem:14.0</td>
+    <td>Faz o download da imagem com a versão informada.</td>
+  </tr>
 </table>
