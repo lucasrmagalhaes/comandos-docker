@@ -54,4 +54,9 @@
     <td>docker start numero-id</td>
     <td>Inicia a execução do container.</td>
   </tr>
+  
+  <tr>
+    <td>docker attach numero-id</td>
+    <td>Entra no container.</td>
+  </tr>
 </table>
