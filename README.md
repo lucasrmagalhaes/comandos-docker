@@ -64,4 +64,9 @@
     <td>docker diff numero-id</td>
     <td>Mostra todas as alterações dentro do container.</td>
   </tr>
+  
+  <tr>
+    <td>docker commit -a Lucas -m teste numero-id debian/minha_imagem:1.0</td>
+    <td>Cria uma imagem a partir de um container.</td>
+  </tr>
 </table>
