@@ -1,5 +1,4 @@
 <table>
-  
   <tr>
     <th>Comando:</th>
     <th>Descrição:</th>
@@ -68,5 +67,10 @@
   <tr>
     <td>docker commit -a Lucas -m teste numero-id debian/minha_imagem:1.0</td>
     <td>Cria uma imagem a partir de um container.</td>
+  </tr>
+  
+  <tr>
+    <td>docker rm numero-id</td>
+    <td>Remove um container que não está em execução.</td>
   </tr>
 </table>
