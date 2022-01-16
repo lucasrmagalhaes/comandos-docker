@@ -83,4 +83,9 @@
     <td>docker rmi numero-id</td>
     <td>Remove uma imagem.</td>
   </tr>
+  
+  <tr>
+    <td>docker search nome-pesquisa</td>
+    <td>Lista imagens com o nome da pesquisa, localizadas no <a href="https://hub.docker.com/search?type=image">Docker Hub.</a></td>
+  </tr>
 </table>
