@@ -44,4 +44,9 @@
     <td>docker stop numero-id</td>
     <td>Para a execução do container.</td>
   </tr>
+  
+  <tr>
+    <td>docker start numero-id</td>
+    <td>Inicia a execução do container.</td>
+  </tr>
 </table>
