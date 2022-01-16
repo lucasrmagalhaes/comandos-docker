@@ -14,4 +14,9 @@
     <td>docker ps</td>
     <td>Lista os processos.</td>
   </tr>
+  
+  <tr>
+    <td>docker images</td>
+    <td>Lista as imagens.</td>
+  </tr>
 </table>
